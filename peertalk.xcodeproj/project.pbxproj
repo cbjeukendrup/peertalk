@@ -160,6 +160,7 @@
 		AB6C99A9257BB91300D5624E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../MessagePack/MessagePack iOS/Info.plist"; sourceTree = "<group>"; };
 		AB6C9A3B257BDCEB00D5624E /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		AB6C9A3D257BDCF200D5624E /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		AF857FEA2629EE530034C91A /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		EE158A7C1CBD402600A3E3F0 /* Peertalk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Peertalk.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -265,6 +266,7 @@
 		6A88FA25150D613800FC3647 = {
 			isa = PBXGroup;
 			children = (
+				AF857FEA2629EE530034C91A /* Package.swift */,
 				6A88FA39150D613800FC3647 /* peertalk */,
 				6A88FA4B150D613800FC3647 /* tests */,
 				6A64AAC9152604D40065BF86 /* Peertalk macOS Example */,
